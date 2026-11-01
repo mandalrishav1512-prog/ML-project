@@ -1,0 +1,1001 @@
+student_id,subject,topic,previous_score,study_hours_per_day,attendance_pct,interest_level,learning_preference,completion_rate_pct,difficulty_level,resource_rating
+S0001,Mathematics,Algebra,73,1.3,91,1,Practice,16,High,2
+S0002,Science,Chemistry,70,2.1,81,4,Notes,43,Medium,4
+S0003,Mathematics,Trigonometry,82,2.6,95,3,Video,43,Medium,4
+S0004,Computer Science,Algorithms,50,3.6,81,3,Video,60,Medium,3
+S0005,Mathematics,Algebra,90,2.3,76,4,Notes,78,Low,4
+S0006,Science,Human Body,75,3.0,100,1,Video,54,Medium,3
+S0007,Computer Science,Operating Systems,53,3.2,95,3,Interactive,43,Medium,3
+S0008,Science,Electricity,79,3.4,88,1,Practice,48,Medium,3
+S0009,Mathematics,Geometry,70,2.8,92,4,Interactive,81,Medium,4
+S0010,Programming,Functions,73,3.3,64,1,Notes,57,Medium,3
+S0011,Science,Biology,56,2.2,99,3,Video,89,Medium,2
+S0012,Mathematics,Statistics,61,2.7,89,4,Video,82,Medium,4
+S0013,Programming,Functions,61,1.9,92,2,Practice,33,High,2
+S0014,Mathematics,Statistics,51,3.1,83,3,Video,82,Medium,3
+S0015,English,Grammar,70,3.3,78,3,Practice,48,Medium,3
+S0016,Computer Science,Computer Networks,61,1.1,87,5,Notes,53,Medium,4
+S0017,Mathematics,Algebra,76,3.0,89,1,Notes,54,Medium,3
+S0018,Programming,Python Basics,37,0.8,66,2,Notes,40,High,3
+S0019,Mathematics,Statistics,51,2.0,97,2,Practice,83,Medium,2
+S0020,English,Reading Comprehension,64,1.4,77,4,Notes,86,Medium,2
+S0021,Programming,Functions,75,2.8,74,3,Notes,66,Medium,3
+S0022,Programming,Python Basics,72,2.5,100,5,Notes,59,Medium,3
+S0023,Computer Science,Operating Systems,71,2.8,98,1,Notes,73,Medium,4
+S0024,English,Writing,46,1.7,70,2,Practice,55,High,2
+S0025,Computer Science,Operating Systems,79,2.2,64,3,Practice,72,Medium,4
+S0026,Mathematics,Geometry,100,6.0,86,3,Video,40,Medium,2
+S0027,Programming,SQL,72,1.5,77,5,Practice,61,Medium,5
+S0028,Mathematics,Geometry,70,2.3,69,3,Practice,23,High,3
+S0029,Science,Electricity,67,4.6,83,2,Interactive,52,Medium,2
+S0030,English,Vocabulary,50,1.6,100,1,Practice,44,Medium,3
+S0031,Science,Chemistry,51,3.6,86,4,Practice,63,Medium,3
+S0032,Computer Science,Algorithms,76,2.0,67,3,Interactive,33,High,3
+S0033,Programming,Loops,96,2.7,80,1,Notes,97,Low,4
+S0034,Computer Science,Algorithms,60,3.8,87,3,Video,100,Medium,4
+S0035,Mathematics,Algebra,45,0.9,100,1,Notes,60,High,2
+S0036,Science,Electricity,94,1.2,71,5,Video,81,Low,4
+S0037,English,Writing,67,2.3,86,1,Interactive,67,Medium,3
+S0038,Computer Science,Computer Networks,31,2.4,71,2,Video,34,High,2
+S0039,Mathematics,Trigonometry,61,3.6,66,5,Practice,52,Medium,4
+S0040,Programming,Python Basics,86,3.1,98,1,Practice,61,Medium,2
+S0041,English,Vocabulary,63,2.8,84,5,Interactive,67,Medium,4
+S0042,Mathematics,Number System,100,4.8,71,1,Notes,57,Medium,2
+S0043,Computer Science,DBMS,57,2.9,96,2,Practice,48,Medium,1
+S0044,Computer Science,HTML and CSS,65,1.2,75,5,Notes,43,Medium,4
+S0045,Science,Biology,36,0.7,100,2,Notes,37,High,4
+S0046,Computer Science,HTML and CSS,100,1.1,77,2,Video,73,Low,5
+S0047,Computer Science,Computer Networks,50,2.2,91,3,Interactive,55,Medium,3
+S0048,Mathematics,Algebra,43,2.2,78,1,Practice,70,High,2
+S0049,Programming,Loops,76,3.7,83,5,Video,66,Medium,4
+S0050,Science,Human Body,55,2.9,80,2,Video,100,Medium,5
+S0051,Mathematics,Statistics,74,1.6,68,1,Video,71,Medium,3
+S0052,Computer Science,Operating Systems,36,3.6,87,5,Notes,37,High,3
+S0053,English,Tenses,72,2.6,78,4,Notes,58,Medium,4
+S0054,Programming,Data Structures,94,0.5,79,1,Interactive,69,Medium,3
+S0055,Science,Human Body,61,0.5,85,4,Notes,26,High,4
+S0056,Programming,SQL,62,2.4,69,2,Practice,56,Medium,4
+S0057,English,Tenses,78,4.6,96,3,Interactive,100,Medium,4
+S0058,Mathematics,Geometry,82,2.1,82,3,Notes,47,Medium,4
+S0059,Mathematics,Number System,46,3.4,79,5,Video,83,High,5
+S0060,Computer Science,HTML and CSS,81,0.6,81,4,Notes,35,Medium,3
+S0061,Computer Science,Operating Systems,95,3.3,73,5,Video,65,Medium,3
+S0062,Mathematics,Algebra,55,2.9,95,5,Notes,80,Medium,2
+S0063,Mathematics,Algebra,73,2.6,86,3,Practice,13,High,3
+S0064,Mathematics,Trigonometry,78,0.6,99,3,Notes,74,Medium,4
+S0065,Programming,SQL,57,3.5,94,4,Notes,70,Medium,4
+S0066,Computer Science,Operating Systems,52,2.3,80,5,Interactive,74,Medium,5
+S0067,Science,Electricity,48,2.3,99,1,Interactive,44,High,3
+S0068,Science,Physics,83,2.5,97,3,Video,86,Low,4
+S0069,English,Reading Comprehension,77,5.3,79,1,Interactive,100,Medium,3
+S0070,English,Writing,69,4.1,62,1,Video,33,High,1
+S0071,Mathematics,Algebra,53,3.0,88,4,Interactive,29,High,1
+S0072,Programming,Python Basics,68,1.9,87,4,Notes,82,Medium,4
+S0073,Science,Chemistry,81,2.8,88,2,Interactive,60,Medium,3
+S0074,Science,Electricity,82,2.0,88,2,Notes,58,Medium,3
+S0075,Programming,SQL,82,0.5,66,5,Notes,6,High,3
+S0076,Mathematics,Statistics,81,2.2,84,2,Video,92,Low,5
+S0077,Mathematics,Trigonometry,66,4.1,83,1,Video,50,Medium,2
+S0078,Mathematics,Geometry,52,2.1,91,5,Notes,100,Medium,3
+S0079,English,Writing,75,1.3,87,2,Interactive,19,High,4
+S0080,Science,Electricity,57,1.9,69,5,Video,48,Medium,4
+S0081,Science,Electricity,64,2.9,86,2,Video,56,Medium,2
+S0082,English,Reading Comprehension,87,2.1,95,5,Interactive,74,Low,4
+S0083,Programming,SQL,74,4.8,100,5,Interactive,69,Medium,5
+S0084,Science,Chemistry,52,2.9,81,1,Practice,72,Medium,2
+S0085,Science,Physics,39,0.5,68,5,Video,57,High,5
+S0086,Programming,Python Basics,87,1.3,86,1,Video,54,Medium,3
+S0087,Computer Science,Algorithms,71,3.2,77,2,Notes,36,Medium,3
+S0088,Mathematics,Trigonometry,100,2.8,99,3,Video,67,Medium,4
+S0089,Science,Physics,66,2.3,72,2,Video,43,Medium,4
+S0090,Science,Electricity,87,2.9,78,2,Video,76,Low,3
+S0091,Computer Science,Operating Systems,84,0.5,77,3,Video,27,High,4
+S0092,Computer Science,DBMS,84,1.6,63,5,Interactive,0,High,3
+S0093,Computer Science,HTML and CSS,100,3.0,75,4,Practice,25,High,3
+S0094,Programming,Loops,69,2.4,91,4,Practice,73,Medium,4
+S0095,Science,Biology,55,3.6,100,5,Interactive,42,Medium,5
+S0096,Science,Biology,64,4.2,76,3,Interactive,100,Medium,4
+S0097,Programming,Python Basics,72,4.4,77,2,Video,53,Medium,4
+S0098,English,Tenses,39,3.3,75,1,Video,93,High,1
+S0099,Mathematics,Trigonometry,53,0.5,72,5,Notes,60,Medium,4
+S0100,Computer Science,Computer Networks,65,2.7,69,4,Notes,82,Medium,4
+S0101,Programming,Python Basics,74,3.2,85,4,Notes,62,Medium,3
+S0102,Programming,Functions,54,1.3,67,5,Notes,42,Medium,4
+S0103,English,Tenses,74,2.6,72,1,Practice,83,Medium,3
+S0104,Computer Science,HTML and CSS,56,3.2,84,2,Video,28,High,3
+S0105,Computer Science,Computer Networks,72,1.4,84,4,Video,98,Medium,5
+S0106,Science,Biology,63,2.9,53,5,Video,36,Medium,3
+S0107,Mathematics,Trigonometry,48,3.4,100,5,Notes,44,High,4
+S0108,Programming,Functions,97,1.0,84,3,Notes,100,Low,3
+S0109,Programming,Loops,44,2.0,75,5,Practice,71,High,2
+S0110,Computer Science,Algorithms,77,1.8,97,5,Practice,49,Medium,3
+S0111,Mathematics,Algebra,77,3.4,87,1,Interactive,78,Medium,2
+S0112,Programming,Python Basics,72,0.8,87,2,Video,44,Medium,2
+S0113,Programming,Loops,80,2.8,74,1,Practice,53,Medium,3
+S0114,Science,Electricity,72,1.8,87,4,Interactive,51,Medium,3
+S0115,Computer Science,DBMS,92,1.3,53,3,Video,100,Low,4
+S0116,Mathematics,Geometry,33,2.1,78,2,Video,60,High,2
+S0117,Programming,Data Structures,78,3.1,64,3,Notes,100,Medium,4
+S0118,English,Vocabulary,61,2.3,89,5,Video,21,High,4
+S0119,Programming,Functions,60,4.7,79,1,Video,37,Medium,3
+S0120,Programming,Loops,73,1.5,84,2,Notes,95,Medium,3
+S0121,Mathematics,Number System,37,2.5,71,5,Interactive,62,High,2
+S0122,Computer Science,Operating Systems,38,3.1,75,2,Notes,0,High,3
+S0123,Science,Chemistry,72,1.6,66,2,Interactive,73,Medium,5
+S0124,Mathematics,Geometry,75,3.0,79,2,Practice,85,Medium,4
+S0125,English,Vocabulary,90,1.9,76,3,Practice,84,Low,5
+S0126,Science,Physics,59,2.0,85,1,Interactive,58,Medium,4
+S0127,Mathematics,Statistics,27,1.5,72,1,Notes,40,High,2
+S0128,Science,Electricity,64,3.8,79,2,Practice,39,Medium,3
+S0129,Programming,Loops,86,1.3,71,5,Notes,59,Medium,5
+S0130,Mathematics,Geometry,67,3.3,69,2,Interactive,64,Medium,3
+S0131,Programming,Functions,46,0.6,90,3,Video,39,High,3
+S0132,Programming,Functions,88,0.5,64,4,Interactive,41,Medium,5
+S0133,Computer Science,Computer Networks,73,3.4,68,3,Video,76,Medium,4
+S0134,Mathematics,Number System,77,2.3,85,3,Notes,68,Medium,4
+S0135,Computer Science,Computer Networks,82,0.6,55,3,Video,94,Low,3
+S0136,Mathematics,Trigonometry,34,2.6,93,2,Interactive,100,High,4
+S0137,Programming,Functions,61,1.4,82,2,Interactive,39,Medium,5
+S0138,Computer Science,HTML and CSS,100,3.9,70,5,Video,86,Low,5
+S0139,English,Tenses,75,4.0,89,4,Notes,80,Medium,4
+S0140,Programming,Python Basics,35,2.6,75,2,Interactive,33,High,4
+S0141,Mathematics,Trigonometry,99,4.1,85,1,Notes,65,Medium,3
+S0142,Programming,SQL,48,3.0,82,3,Video,32,High,3
+S0143,Programming,Data Structures,66,4.7,92,2,Practice,71,Medium,3
+S0144,Mathematics,Number System,64,1.2,80,1,Practice,46,Medium,2
+S0145,English,Reading Comprehension,77,3.0,60,1,Interactive,89,Medium,4
+S0146,Programming,Data Structures,86,2.5,71,1,Notes,37,Medium,3
+S0147,Science,Electricity,74,4.0,95,2,Interactive,33,High,3
+S0148,Science,Human Body,71,2.3,75,4,Practice,71,Medium,3
+S0149,English,Tenses,56,2.9,77,1,Video,71,Medium,2
+S0150,Programming,Functions,59,4.2,68,4,Notes,12,High,2
+S0151,English,Tenses,68,2.5,80,1,Practice,0,High,3
+S0152,English,Writing,96,1.1,77,4,Interactive,46,Medium,3
+S0153,Science,Human Body,62,4.2,100,3,Interactive,100,Medium,4
+S0154,Science,Physics,99,2.4,83,1,Practice,74,Low,5
+S0155,Computer Science,HTML and CSS,83,1.7,93,3,Practice,52,Medium,4
+S0156,Mathematics,Geometry,68,2.8,82,5,Practice,73,Medium,4
+S0157,Science,Chemistry,33,3.3,70,1,Notes,63,High,3
+S0158,Mathematics,Algebra,55,3.5,65,1,Notes,54,Medium,2
+S0159,English,Tenses,67,2.8,69,1,Video,66,Medium,1
+S0160,English,Writing,32,2.5,79,5,Notes,62,High,4
+S0161,English,Writing,72,3.6,68,2,Interactive,37,Medium,3
+S0162,Science,Chemistry,90,2.0,51,5,Video,22,High,3
+S0163,Mathematics,Statistics,57,2.0,82,3,Notes,91,Medium,3
+S0164,Science,Human Body,52,3.1,63,1,Interactive,74,Medium,3
+S0165,Mathematics,Trigonometry,65,4.4,74,3,Notes,59,Medium,2
+S0166,Mathematics,Statistics,69,1.2,72,1,Notes,74,Medium,3
+S0167,English,Tenses,56,3.7,95,3,Practice,40,Medium,4
+S0168,English,Tenses,92,0.5,78,5,Interactive,43,Medium,4
+S0169,Computer Science,Algorithms,57,2.3,100,3,Notes,75,Medium,3
+S0170,English,Writing,69,2.5,87,3,Practice,94,Medium,5
+S0171,Science,Biology,73,3.2,68,1,Interactive,88,Medium,4
+S0172,Science,Biology,71,3.6,87,2,Interactive,95,Medium,4
+S0173,Mathematics,Number System,61,2.9,46,1,Notes,0,High,1
+S0174,Programming,Functions,76,3.1,68,5,Practice,47,Medium,5
+S0175,Computer Science,DBMS,59,5.2,81,4,Notes,100,Medium,4
+S0176,Science,Chemistry,49,2.4,81,4,Interactive,30,High,3
+S0177,Science,Chemistry,54,3.6,82,3,Video,62,Medium,3
+S0178,English,Writing,79,1.3,69,1,Practice,92,Medium,3
+S0179,Computer Science,Algorithms,42,3.0,87,3,Interactive,70,High,4
+S0180,Mathematics,Geometry,74,3.3,65,2,Interactive,73,Medium,3
+S0181,English,Tenses,59,3.5,99,4,Video,97,Medium,4
+S0182,Computer Science,Algorithms,74,3.4,83,2,Interactive,68,Medium,4
+S0183,Mathematics,Number System,66,1.6,77,3,Practice,65,Medium,4
+S0184,English,Writing,80,2.1,91,3,Notes,74,Low,3
+S0185,English,Vocabulary,93,1.9,62,4,Practice,39,Medium,4
+S0186,English,Writing,63,2.1,89,2,Video,73,Medium,3
+S0187,English,Reading Comprehension,75,3.2,56,4,Interactive,10,High,3
+S0188,Science,Electricity,67,3.8,96,5,Notes,70,Medium,4
+S0189,Computer Science,HTML and CSS,76,1.9,81,5,Video,51,Medium,5
+S0190,English,Tenses,80,1.4,93,4,Video,82,Low,4
+S0191,Mathematics,Statistics,54,1.5,75,5,Notes,41,Medium,4
+S0192,English,Vocabulary,45,2.3,83,5,Video,100,High,3
+S0193,Programming,SQL,94,2.7,86,2,Practice,76,Low,3
+S0194,Science,Electricity,94,2.0,95,2,Practice,48,Medium,3
+S0195,Programming,SQL,48,3.0,99,2,Practice,60,High,2
+S0196,English,Reading Comprehension,63,0.6,71,1,Video,70,Medium,4
+S0197,English,Grammar,100,1.8,99,4,Video,61,Medium,4
+S0198,Programming,Loops,69,2.6,77,1,Video,30,High,1
+S0199,Mathematics,Algebra,79,2.2,74,2,Notes,84,Medium,4
+S0200,Science,Physics,56,4.0,100,3,Notes,77,Medium,4
+S0201,Science,Chemistry,90,3.9,89,2,Interactive,77,Low,3
+S0202,Mathematics,Trigonometry,80,0.9,72,1,Notes,97,Low,4
+S0203,English,Reading Comprehension,94,2.2,68,2,Practice,67,Medium,3
+S0204,Science,Human Body,88,2.1,86,5,Video,40,Medium,4
+S0205,Science,Biology,68,1.6,79,1,Video,58,Medium,4
+S0206,Computer Science,DBMS,66,2.2,56,1,Practice,42,Medium,3
+S0207,Computer Science,Algorithms,55,4.2,80,3,Interactive,66,Medium,3
+S0208,Science,Physics,66,2.5,100,4,Notes,7,High,2
+S0209,Mathematics,Number System,58,2.5,90,4,Video,55,Medium,4
+S0210,Computer Science,DBMS,86,2.7,93,1,Practice,71,Low,3
+S0211,Computer Science,Algorithms,80,2.6,82,5,Practice,3,High,3
+S0212,Mathematics,Trigonometry,46,2.1,78,5,Practice,27,High,3
+S0213,Mathematics,Statistics,52,5.4,100,3,Interactive,55,Medium,2
+S0214,Mathematics,Statistics,33,2.4,70,1,Practice,62,High,1
+S0215,English,Vocabulary,54,2.7,86,1,Interactive,31,High,3
+S0216,Science,Human Body,53,3.3,81,3,Practice,30,High,3
+S0217,Computer Science,HTML and CSS,74,3.2,80,1,Interactive,90,Medium,3
+S0218,English,Writing,81,4.8,100,3,Practice,34,High,3
+S0219,Programming,Loops,94,1.2,66,1,Video,75,Low,3
+S0220,Programming,SQL,56,1.7,73,3,Notes,43,Medium,5
+S0221,English,Tenses,73,3.6,76,5,Interactive,47,Medium,2
+S0222,Programming,Python Basics,43,0.5,55,5,Interactive,35,High,5
+S0223,Programming,Loops,67,4.0,86,1,Interactive,42,Medium,3
+S0224,Science,Biology,81,1.8,88,5,Practice,79,Low,4
+S0225,Programming,Functions,47,1.1,83,5,Practice,45,High,4
+S0226,Computer Science,DBMS,78,3.2,100,2,Notes,96,Medium,3
+S0227,Mathematics,Geometry,98,1.9,94,5,Interactive,54,Medium,3
+S0228,English,Tenses,64,0.6,93,4,Notes,100,Medium,3
+S0229,English,Writing,73,1.6,74,5,Interactive,64,Medium,5
+S0230,Mathematics,Algebra,59,3.7,83,2,Practice,84,Medium,3
+S0231,Science,Electricity,67,2.4,71,5,Notes,81,Medium,4
+S0232,Programming,Data Structures,95,4.2,77,5,Practice,74,Low,4
+S0233,English,Tenses,68,1.8,100,5,Practice,59,Medium,5
+S0234,English,Tenses,28,0.5,91,3,Practice,66,High,3
+S0235,Programming,SQL,44,2.5,100,5,Practice,69,High,3
+S0236,Programming,Functions,60,0.5,85,3,Notes,86,Medium,2
+S0237,Mathematics,Geometry,56,1.1,70,5,Practice,12,High,4
+S0238,Mathematics,Trigonometry,81,2.2,52,5,Notes,40,Medium,5
+S0239,Science,Chemistry,17,2.1,67,5,Interactive,48,High,4
+S0240,Programming,Data Structures,78,4.7,79,4,Practice,74,Medium,3
+S0241,Mathematics,Geometry,89,1.6,75,1,Practice,25,High,3
+S0242,Science,Biology,85,2.9,62,2,Notes,61,Medium,4
+S0243,Programming,Python Basics,34,1.2,92,1,Notes,75,High,4
+S0244,Programming,Python Basics,76,3.3,100,3,Video,59,Medium,3
+S0245,Computer Science,Computer Networks,75,3.0,75,2,Notes,100,Medium,4
+S0246,English,Grammar,54,3.6,80,5,Video,58,Medium,4
+S0247,Computer Science,Computer Networks,44,2.9,100,5,Interactive,55,High,3
+S0248,English,Writing,60,2.2,77,1,Practice,87,Medium,2
+S0249,Science,Physics,83,2.0,86,1,Practice,98,Low,4
+S0250,English,Grammar,85,0.7,91,5,Video,75,Low,3
+S0251,English,Writing,67,2.9,88,2,Video,72,Medium,4
+S0252,Computer Science,DBMS,90,0.5,78,3,Notes,60,Medium,2
+S0253,Science,Human Body,69,4.0,68,3,Practice,42,Medium,3
+S0254,Mathematics,Geometry,94,1.8,87,4,Video,18,High,5
+S0255,Computer Science,Algorithms,78,2.3,88,5,Notes,94,Medium,4
+S0256,Computer Science,Algorithms,64,1.9,75,5,Interactive,82,Medium,4
+S0257,English,Reading Comprehension,79,2.5,88,3,Interactive,100,Medium,2
+S0258,Programming,Data Structures,90,4.1,71,5,Video,100,Low,5
+S0259,Computer Science,DBMS,85,2.5,79,1,Notes,74,Low,4
+S0260,Science,Biology,71,1.4,91,3,Video,88,Medium,4
+S0261,Science,Chemistry,81,2.2,70,5,Notes,24,High,4
+S0262,Computer Science,DBMS,66,2.0,46,1,Notes,33,High,4
+S0263,Mathematics,Statistics,56,2.9,65,2,Interactive,61,Medium,3
+S0264,Computer Science,Algorithms,100,4.3,78,2,Practice,50,Medium,3
+S0265,Mathematics,Geometry,77,2.4,77,5,Practice,62,Medium,5
+S0266,Programming,SQL,69,4.6,86,3,Video,89,Medium,3
+S0267,Science,Biology,52,3.1,93,2,Notes,32,High,2
+S0268,English,Grammar,42,0.5,83,3,Notes,93,High,3
+S0269,Science,Biology,27,2.3,80,3,Notes,28,High,3
+S0270,Mathematics,Algebra,98,3.0,88,1,Notes,67,Medium,3
+S0271,Programming,Data Structures,81,1.5,92,4,Practice,73,Low,4
+S0272,English,Grammar,56,2.5,74,3,Interactive,38,Medium,3
+S0273,Programming,SQL,48,2.9,68,1,Practice,35,High,2
+S0274,Computer Science,HTML and CSS,56,4.1,85,5,Interactive,59,Medium,4
+S0275,English,Grammar,30,2.4,100,1,Video,66,High,3
+S0276,English,Reading Comprehension,84,0.5,61,2,Practice,70,Low,3
+S0277,Mathematics,Algebra,91,2.1,58,4,Notes,0,High,3
+S0278,Computer Science,HTML and CSS,64,2.0,94,5,Video,94,Medium,4
+S0279,Programming,Data Structures,29,3.2,88,3,Video,89,High,2
+S0280,Science,Electricity,100,1.3,90,3,Interactive,22,High,3
+S0281,Programming,Loops,95,2.2,92,1,Interactive,62,Medium,4
+S0282,English,Grammar,63,0.5,72,3,Interactive,78,Medium,4
+S0283,Programming,SQL,39,1.6,75,4,Practice,30,High,3
+S0284,Programming,Python Basics,54,3.4,91,3,Notes,61,Medium,3
+S0285,Programming,SQL,70,1.5,68,3,Interactive,49,Medium,2
+S0286,Programming,SQL,70,3.4,62,2,Video,65,Medium,3
+S0287,English,Grammar,74,2.5,64,5,Practice,65,Medium,5
+S0288,Programming,Functions,28,2.9,96,2,Video,61,High,3
+S0289,English,Tenses,55,2.4,62,1,Video,88,Medium,2
+S0290,Computer Science,Algorithms,59,0.8,65,2,Interactive,60,Medium,2
+S0291,Mathematics,Geometry,74,3.0,85,2,Practice,100,Medium,3
+S0292,Computer Science,Algorithms,67,3.9,97,5,Interactive,29,High,3
+S0293,Mathematics,Geometry,92,3.1,84,2,Practice,55,Medium,4
+S0294,Computer Science,Operating Systems,63,2.4,82,5,Practice,48,Medium,4
+S0295,English,Writing,100,0.5,85,2,Video,79,Low,4
+S0296,Mathematics,Trigonometry,81,3.9,84,1,Notes,93,Low,1
+S0297,Science,Biology,96,3.0,94,3,Video,44,Medium,4
+S0298,Computer Science,Algorithms,67,2.8,95,2,Video,20,High,4
+S0299,Science,Physics,68,2.3,64,1,Interactive,4,High,3
+S0300,Mathematics,Geometry,41,2.6,80,5,Interactive,94,High,4
+S0301,Programming,Data Structures,55,1.9,97,4,Practice,55,Medium,3
+S0302,English,Writing,39,3.0,60,4,Interactive,83,High,4
+S0303,Science,Electricity,100,1.2,80,4,Notes,94,Low,4
+S0304,English,Vocabulary,72,2.5,85,3,Notes,47,Medium,3
+S0305,Mathematics,Number System,39,2.7,87,2,Interactive,24,High,3
+S0306,Programming,Data Structures,74,1.6,78,4,Practice,27,High,3
+S0307,Mathematics,Number System,58,4.0,74,3,Practice,51,Medium,3
+S0308,Computer Science,HTML and CSS,65,3.5,75,2,Interactive,25,High,2
+S0309,Science,Electricity,58,1.0,86,3,Interactive,100,Medium,2
+S0310,Programming,Functions,71,1.1,76,4,Interactive,68,Medium,2
+S0311,English,Reading Comprehension,72,4.8,76,1,Notes,90,Medium,3
+S0312,Science,Human Body,57,0.5,89,4,Interactive,62,Medium,3
+S0313,Science,Electricity,70,1.8,75,5,Video,31,High,5
+S0314,Programming,SQL,42,1.7,100,1,Interactive,93,High,3
+S0315,English,Vocabulary,51,1.9,82,1,Interactive,62,Medium,3
+S0316,Mathematics,Geometry,64,0.8,75,4,Practice,87,Medium,3
+S0317,Mathematics,Statistics,64,1.5,83,3,Video,100,Medium,4
+S0318,Computer Science,Algorithms,44,3.3,72,1,Video,50,High,3
+S0319,Science,Electricity,59,3.6,72,4,Notes,48,Medium,3
+S0320,Mathematics,Statistics,87,3.3,100,5,Practice,100,Low,3
+S0321,Programming,Data Structures,69,1.1,72,3,Interactive,38,Medium,2
+S0322,Mathematics,Number System,65,1.0,92,4,Interactive,42,Medium,5
+S0323,Programming,SQL,59,2.6,66,3,Video,92,Medium,4
+S0324,Computer Science,DBMS,43,2.8,68,3,Notes,100,High,4
+S0325,Programming,Loops,69,0.5,70,2,Video,95,Medium,4
+S0326,English,Grammar,39,2.9,94,3,Video,23,High,3
+S0327,English,Vocabulary,72,2.1,59,4,Practice,56,Medium,4
+S0328,Mathematics,Algebra,57,2.0,81,1,Practice,76,Medium,3
+S0329,Mathematics,Number System,60,2.6,58,2,Practice,64,Medium,3
+S0330,Programming,SQL,85,0.5,58,5,Notes,71,Low,4
+S0331,Science,Human Body,71,1.9,89,1,Interactive,77,Medium,3
+S0332,Computer Science,Operating Systems,30,3.4,96,5,Notes,81,High,3
+S0333,Science,Physics,80,3.5,100,3,Interactive,59,Medium,4
+S0334,Computer Science,Operating Systems,69,1.2,86,5,Interactive,79,Medium,4
+S0335,Computer Science,Operating Systems,71,2.2,99,5,Notes,50,Medium,4
+S0336,English,Reading Comprehension,83,0.7,66,2,Interactive,14,High,3
+S0337,Programming,Python Basics,47,2.0,89,1,Interactive,70,High,3
+S0338,Programming,Data Structures,80,3.1,73,1,Notes,60,Medium,4
+S0339,Mathematics,Statistics,75,0.8,89,4,Practice,100,Medium,5
+S0340,Computer Science,Computer Networks,73,2.7,79,3,Interactive,81,Medium,3
+S0341,Programming,SQL,72,3.5,75,1,Practice,35,Medium,2
+S0342,Science,Electricity,35,3.4,100,4,Interactive,100,High,2
+S0343,Mathematics,Geometry,81,4.2,76,2,Interactive,14,High,3
+S0344,Computer Science,Computer Networks,48,2.7,63,1,Practice,78,High,4
+S0345,Programming,Python Basics,53,1.1,56,1,Interactive,50,Medium,1
+S0346,Programming,Python Basics,76,2.0,69,1,Video,51,Medium,4
+S0347,Computer Science,Algorithms,78,2.3,89,3,Practice,65,Medium,4
+S0348,Science,Human Body,59,3.0,72,5,Practice,77,Medium,4
+S0349,Science,Chemistry,15,3.9,45,3,Practice,90,High,3
+S0350,Science,Physics,41,1.2,94,3,Video,16,High,4
+S0351,Programming,SQL,67,1.1,75,1,Video,86,Medium,4
+S0352,Computer Science,Computer Networks,37,2.0,71,4,Notes,97,High,3
+S0353,Mathematics,Number System,96,2.5,68,4,Practice,44,Medium,3
+S0354,English,Vocabulary,69,1.0,55,2,Notes,55,Medium,2
+S0355,Science,Human Body,54,1.4,71,3,Practice,66,Medium,4
+S0356,Computer Science,HTML and CSS,36,1.7,84,3,Practice,39,High,4
+S0357,Science,Biology,46,2.2,74,2,Interactive,48,High,3
+S0358,Programming,Functions,63,1.6,87,5,Video,70,Medium,4
+S0359,English,Grammar,60,3.5,79,2,Notes,67,Medium,4
+S0360,Science,Electricity,43,3.4,59,2,Practice,70,High,4
+S0361,Mathematics,Statistics,76,2.7,75,1,Video,58,Medium,2
+S0362,Programming,Data Structures,62,2.7,72,2,Video,44,Medium,2
+S0363,English,Reading Comprehension,75,3.2,84,5,Practice,67,Medium,4
+S0364,Computer Science,Algorithms,73,2.4,75,4,Practice,100,Medium,4
+S0365,Mathematics,Geometry,56,3.0,85,4,Interactive,93,Medium,4
+S0366,Mathematics,Trigonometry,48,3.9,89,2,Practice,33,High,4
+S0367,Computer Science,Operating Systems,79,2.5,100,5,Video,64,Medium,3
+S0368,English,Reading Comprehension,78,3.1,82,2,Interactive,45,Medium,3
+S0369,Mathematics,Geometry,66,0.9,64,1,Video,0,High,3
+S0370,Mathematics,Number System,59,4.1,76,2,Interactive,81,Medium,3
+S0371,Mathematics,Algebra,70,3.4,76,3,Notes,40,Medium,4
+S0372,Computer Science,Operating Systems,84,3.3,100,1,Interactive,45,Medium,2
+S0373,English,Reading Comprehension,50,3.3,87,1,Interactive,36,Medium,3
+S0374,Computer Science,Operating Systems,45,3.9,100,5,Interactive,74,High,4
+S0375,Mathematics,Statistics,59,0.5,74,3,Interactive,28,High,5
+S0376,Programming,Python Basics,72,3.0,78,4,Practice,60,Medium,4
+S0377,Science,Electricity,67,3.1,79,2,Interactive,29,High,1
+S0378,Science,Biology,63,2.6,66,1,Video,64,Medium,3
+S0379,Programming,Data Structures,29,1.4,86,4,Practice,36,High,3
+S0380,Mathematics,Statistics,86,3.4,80,1,Practice,53,Medium,3
+S0381,Science,Physics,76,2.7,89,3,Interactive,85,Medium,4
+S0382,Mathematics,Geometry,82,3.5,72,5,Video,19,High,5
+S0383,Mathematics,Number System,72,0.5,73,1,Notes,58,Medium,3
+S0384,Science,Human Body,93,1.2,72,1,Notes,70,Low,3
+S0385,Mathematics,Trigonometry,76,3.6,84,5,Notes,58,Medium,4
+S0386,Computer Science,Operating Systems,69,2.8,91,2,Notes,78,Medium,3
+S0387,Programming,Loops,53,2.6,81,1,Video,100,Medium,3
+S0388,Programming,Loops,75,3.8,83,1,Notes,100,Medium,3
+S0389,Computer Science,Computer Networks,73,1.5,77,5,Notes,86,Medium,4
+S0390,Mathematics,Algebra,90,2.4,78,3,Notes,100,Low,4
+S0391,Mathematics,Number System,55,1.7,70,1,Notes,55,Medium,3
+S0392,Computer Science,Computer Networks,66,3.4,71,5,Video,38,Medium,4
+S0393,Science,Biology,78,2.9,72,2,Video,46,Medium,3
+S0394,Science,Electricity,51,4.1,89,4,Video,80,Medium,5
+S0395,Mathematics,Statistics,100,0.5,73,2,Interactive,43,Medium,2
+S0396,Programming,Data Structures,62,1.0,86,2,Video,66,Medium,4
+S0397,English,Tenses,77,3.2,77,1,Notes,70,Medium,2
+S0398,Computer Science,DBMS,49,0.5,82,2,Practice,61,High,3
+S0399,English,Grammar,100,3.2,90,5,Video,40,Medium,4
+S0400,English,Writing,71,0.5,79,1,Interactive,65,Medium,3
+S0401,Mathematics,Statistics,53,1.9,79,1,Interactive,80,Medium,4
+S0402,Mathematics,Algebra,62,2.0,87,2,Practice,80,Medium,3
+S0403,Computer Science,Operating Systems,82,3.7,97,1,Video,43,Medium,3
+S0404,Science,Biology,68,2.4,74,1,Practice,27,High,3
+S0405,English,Tenses,54,2.6,72,3,Practice,70,Medium,3
+S0406,English,Tenses,78,5.1,85,5,Interactive,77,Medium,3
+S0407,Mathematics,Algebra,44,4.4,70,4,Notes,64,High,3
+S0408,English,Writing,51,2.1,96,1,Notes,44,Medium,2
+S0409,English,Reading Comprehension,84,3.1,74,1,Interactive,46,Medium,3
+S0410,English,Writing,88,1.3,80,4,Video,81,Low,2
+S0411,Programming,SQL,86,1.1,85,3,Practice,92,Low,4
+S0412,Programming,Functions,25,1.6,83,3,Notes,60,High,3
+S0413,English,Grammar,82,3.2,79,5,Video,53,Medium,4
+S0414,Mathematics,Algebra,48,3.3,92,3,Interactive,68,High,1
+S0415,Mathematics,Number System,44,4.8,75,3,Notes,95,High,3
+S0416,Computer Science,DBMS,87,2.8,87,3,Practice,74,Low,4
+S0417,Mathematics,Statistics,100,3.7,63,2,Practice,93,Low,5
+S0418,English,Grammar,60,3.9,93,1,Practice,100,Medium,2
+S0419,Computer Science,Computer Networks,58,2.1,76,3,Practice,0,High,3
+S0420,Mathematics,Trigonometry,74,1.9,100,5,Notes,65,Medium,5
+S0421,Science,Electricity,72,3.5,85,2,Notes,66,Medium,4
+S0422,Mathematics,Number System,74,2.2,86,3,Practice,100,Medium,3
+S0423,Mathematics,Number System,75,4.0,95,4,Notes,5,High,4
+S0424,English,Tenses,28,4.3,84,2,Video,89,High,2
+S0425,Computer Science,Computer Networks,40,2.8,81,1,Video,67,High,5
+S0426,Science,Biology,83,3.8,92,1,Practice,100,Low,3
+S0427,Programming,Functions,31,2.3,91,1,Video,60,High,2
+S0428,Science,Chemistry,95,3.4,89,5,Interactive,80,Low,4
+S0429,Mathematics,Geometry,71,1.1,55,3,Video,73,Medium,4
+S0430,Mathematics,Trigonometry,96,4.4,70,3,Notes,56,Medium,4
+S0431,English,Writing,100,4.3,95,5,Interactive,42,Medium,5
+S0432,Programming,Loops,48,2.2,80,3,Practice,100,High,3
+S0433,Programming,Functions,24,3.1,73,5,Video,62,High,3
+S0434,Mathematics,Geometry,82,0.7,75,4,Notes,82,Low,3
+S0435,Computer Science,DBMS,39,3.3,95,4,Video,15,High,4
+S0436,Programming,SQL,38,2.9,71,4,Interactive,36,High,3
+S0437,English,Tenses,64,1.7,89,2,Interactive,89,Medium,4
+S0438,English,Reading Comprehension,55,1.5,62,4,Notes,72,Medium,3
+S0439,Computer Science,DBMS,25,1.9,71,2,Practice,22,High,1
+S0440,English,Grammar,87,4.1,73,3,Practice,49,Medium,4
+S0441,Computer Science,Algorithms,26,0.5,78,2,Practice,54,High,3
+S0442,Mathematics,Geometry,88,5.0,75,2,Interactive,64,Medium,5
+S0443,Computer Science,DBMS,40,3.7,69,5,Video,58,High,3
+S0444,Science,Biology,50,2.8,93,2,Notes,61,Medium,3
+S0445,Science,Biology,78,1.3,90,4,Practice,100,Medium,4
+S0446,Programming,Python Basics,59,3.4,91,5,Video,51,Medium,3
+S0447,English,Writing,77,1.5,77,4,Notes,89,Medium,3
+S0448,Science,Electricity,34,0.5,66,4,Notes,32,High,3
+S0449,Computer Science,HTML and CSS,46,1.7,72,2,Practice,98,High,4
+S0450,Mathematics,Statistics,68,1.9,76,1,Video,73,Medium,3
+S0451,English,Grammar,51,2.5,57,4,Interactive,84,Medium,3
+S0452,Mathematics,Number System,100,1.4,84,4,Interactive,64,Medium,4
+S0453,Computer Science,Algorithms,65,2.6,92,3,Interactive,64,Medium,4
+S0454,Programming,Python Basics,55,3.4,72,2,Interactive,92,Medium,5
+S0455,Mathematics,Number System,65,0.5,75,3,Notes,78,Medium,4
+S0456,Computer Science,Algorithms,86,3.1,96,4,Practice,87,Low,5
+S0457,Mathematics,Statistics,74,3.6,78,3,Video,100,Medium,4
+S0458,Science,Electricity,82,2.6,74,1,Interactive,65,Medium,4
+S0459,Computer Science,DBMS,77,0.5,79,5,Interactive,59,Medium,3
+S0460,Programming,Functions,100,3.3,81,5,Notes,55,Medium,5
+S0461,Programming,Loops,58,3.9,88,5,Video,68,Medium,4
+S0462,Computer Science,DBMS,86,1.5,62,4,Notes,80,Low,4
+S0463,Programming,Functions,76,3.0,78,3,Notes,63,Medium,3
+S0464,Science,Physics,62,4.9,61,3,Notes,77,Medium,2
+S0465,Programming,Loops,66,2.0,56,2,Notes,55,Medium,1
+S0466,Computer Science,Operating Systems,83,4.2,99,4,Video,73,Low,4
+S0467,Science,Electricity,91,4.5,95,5,Interactive,70,Low,4
+S0468,Computer Science,HTML and CSS,35,3.1,100,3,Interactive,80,High,4
+S0469,Computer Science,HTML and CSS,71,2.4,86,1,Practice,40,Medium,4
+S0470,Programming,Loops,92,1.3,93,3,Interactive,62,Medium,4
+S0471,Mathematics,Statistics,76,3.7,82,2,Interactive,72,Medium,4
+S0472,Programming,Functions,53,5.1,87,4,Video,82,Medium,2
+S0473,Programming,Data Structures,53,4.0,85,3,Video,90,Medium,3
+S0474,Programming,SQL,93,2.4,84,3,Interactive,94,Low,3
+S0475,Mathematics,Algebra,50,2.3,91,4,Practice,23,High,4
+S0476,Programming,Python Basics,57,2.0,59,3,Video,48,Medium,3
+S0477,Computer Science,HTML and CSS,84,1.6,100,1,Interactive,47,Medium,4
+S0478,English,Tenses,71,1.8,80,2,Video,98,Medium,5
+S0479,English,Tenses,53,2.4,83,1,Notes,63,Medium,3
+S0480,Programming,Data Structures,88,3.9,78,5,Interactive,59,Medium,5
+S0481,Computer Science,Operating Systems,57,3.2,80,4,Video,41,Medium,5
+S0482,English,Grammar,65,4.5,75,5,Practice,72,Medium,5
+S0483,Mathematics,Trigonometry,48,0.5,97,5,Notes,64,High,3
+S0484,Mathematics,Geometry,72,1.4,79,2,Interactive,76,Medium,2
+S0485,English,Tenses,55,2.1,64,5,Notes,67,Medium,4
+S0486,Programming,Functions,63,2.5,74,4,Practice,82,Medium,5
+S0487,English,Writing,59,3.1,79,1,Practice,100,Medium,3
+S0488,Computer Science,DBMS,36,3.0,96,3,Practice,59,High,4
+S0489,Mathematics,Number System,55,0.7,83,4,Video,59,Medium,5
+S0490,Computer Science,Algorithms,33,1.0,69,3,Practice,63,High,3
+S0491,Programming,Data Structures,93,3.6,87,3,Notes,74,Low,3
+S0492,Programming,Python Basics,83,1.2,92,3,Notes,94,Low,4
+S0493,Programming,Functions,64,3.0,47,2,Interactive,62,Medium,3
+S0494,Science,Human Body,80,2.4,68,1,Video,61,Medium,3
+S0495,Programming,Data Structures,70,2.7,94,4,Interactive,69,Medium,5
+S0496,Programming,Loops,36,2.7,74,1,Video,55,High,2
+S0497,English,Tenses,64,4.7,66,3,Practice,32,High,5
+S0498,Mathematics,Number System,59,2.5,77,4,Practice,41,Medium,3
+S0499,Science,Chemistry,100,4.2,71,3,Practice,44,Medium,2
+S0500,English,Vocabulary,86,3.9,94,3,Notes,53,Medium,3
+S0501,Science,Chemistry,81,3.0,77,3,Video,67,Medium,4
+S0502,Programming,Python Basics,46,3.3,85,3,Video,83,High,4
+S0503,Programming,Data Structures,55,0.6,75,1,Notes,51,Medium,2
+S0504,Computer Science,Algorithms,35,4.6,91,3,Notes,84,High,4
+S0505,Science,Chemistry,78,2.2,80,3,Notes,100,Medium,4
+S0506,English,Grammar,59,3.1,69,2,Interactive,100,Medium,3
+S0507,Programming,Loops,77,3.8,86,1,Interactive,65,Medium,3
+S0508,Computer Science,Computer Networks,57,2.0,99,4,Interactive,62,Medium,3
+S0509,Science,Human Body,58,3.8,90,5,Notes,58,Medium,4
+S0510,Programming,SQL,56,2.2,93,3,Notes,86,Medium,3
+S0511,Programming,Data Structures,52,2.6,100,5,Interactive,71,Medium,3
+S0512,English,Reading Comprehension,56,2.1,76,3,Interactive,51,Medium,3
+S0513,Computer Science,HTML and CSS,58,0.7,91,2,Interactive,86,Medium,2
+S0514,Science,Chemistry,73,3.3,69,2,Notes,65,Medium,3
+S0515,Programming,Python Basics,100,4.8,62,3,Interactive,42,Medium,4
+S0516,Programming,Data Structures,85,1.3,87,5,Video,62,Medium,4
+S0517,Computer Science,DBMS,72,3.9,82,4,Practice,92,Medium,4
+S0518,Mathematics,Geometry,81,1.7,69,4,Practice,50,Medium,3
+S0519,English,Tenses,82,3.7,80,5,Notes,99,Low,4
+S0520,English,Grammar,53,4.4,81,2,Notes,68,Medium,3
+S0521,English,Reading Comprehension,51,0.7,89,3,Video,100,Medium,3
+S0522,English,Grammar,45,3.1,100,3,Interactive,66,High,4
+S0523,Computer Science,Computer Networks,34,1.7,69,5,Notes,67,High,2
+S0524,English,Grammar,44,1.9,72,2,Practice,74,High,3
+S0525,Science,Physics,84,3.4,95,4,Practice,72,Low,4
+S0526,Mathematics,Number System,70,2.0,78,5,Notes,44,Medium,4
+S0527,Science,Physics,66,1.7,74,5,Practice,89,Medium,4
+S0528,English,Vocabulary,52,3.5,75,1,Interactive,29,High,3
+S0529,English,Tenses,58,2.0,82,2,Video,65,Medium,2
+S0530,Mathematics,Algebra,77,1.9,100,5,Practice,64,Medium,2
+S0531,Science,Chemistry,74,4.8,100,1,Interactive,39,Medium,4
+S0532,Mathematics,Number System,55,2.8,66,1,Notes,48,Medium,2
+S0533,Programming,Python Basics,84,3.5,85,1,Video,57,Medium,2
+S0534,Science,Electricity,83,3.9,94,3,Interactive,46,Medium,1
+S0535,Mathematics,Algebra,36,4.2,77,4,Interactive,100,High,5
+S0536,Computer Science,HTML and CSS,68,2.1,80,3,Video,70,Medium,5
+S0537,Computer Science,HTML and CSS,75,3.4,96,2,Notes,83,Medium,3
+S0538,Science,Biology,22,0.5,69,1,Interactive,78,High,3
+S0539,Mathematics,Trigonometry,71,4.8,66,4,Practice,72,Medium,3
+S0540,Science,Human Body,68,0.6,98,2,Interactive,47,Medium,5
+S0541,Science,Physics,67,3.7,81,5,Practice,50,Medium,4
+S0542,Mathematics,Trigonometry,73,1.6,80,2,Video,49,Medium,5
+S0543,English,Writing,66,4.4,79,1,Video,31,High,2
+S0544,English,Reading Comprehension,71,4.4,84,4,Practice,99,Medium,4
+S0545,Mathematics,Number System,97,2.4,100,1,Video,45,Medium,2
+S0546,Programming,Loops,100,3.5,77,3,Video,96,Low,4
+S0547,Computer Science,Computer Networks,100,0.6,78,4,Notes,15,High,4
+S0548,Mathematics,Number System,63,3.4,100,2,Practice,56,Medium,3
+S0549,Science,Electricity,70,3.7,75,3,Interactive,91,Medium,4
+S0550,Science,Chemistry,31,1.0,100,3,Video,75,High,3
+S0551,English,Grammar,64,2.5,90,2,Practice,43,Medium,3
+S0552,Science,Physics,66,3.2,67,1,Notes,73,Medium,4
+S0553,Mathematics,Number System,76,2.7,80,2,Practice,63,Medium,4
+S0554,Computer Science,Algorithms,65,1.4,76,4,Interactive,70,Medium,3
+S0555,Programming,Python Basics,76,3.1,92,4,Notes,89,Medium,3
+S0556,Programming,Functions,51,2.4,76,3,Video,36,Medium,3
+S0557,Programming,Functions,59,1.7,78,2,Video,69,Medium,5
+S0558,Programming,SQL,71,2.2,82,4,Interactive,71,Medium,4
+S0559,English,Writing,100,1.5,92,3,Practice,25,High,4
+S0560,Science,Electricity,90,1.5,81,4,Interactive,21,High,3
+S0561,Programming,Data Structures,86,1.9,68,1,Practice,51,Medium,3
+S0562,Mathematics,Statistics,81,1.1,71,1,Video,68,Medium,4
+S0563,English,Tenses,90,1.7,93,1,Notes,100,Low,2
+S0564,Computer Science,Computer Networks,91,1.7,100,1,Practice,79,Low,2
+S0565,Mathematics,Algebra,58,3.4,94,4,Practice,66,Medium,4
+S0566,Programming,Functions,70,0.9,72,1,Interactive,70,Medium,4
+S0567,Computer Science,Algorithms,97,3.4,85,3,Notes,48,Medium,3
+S0568,English,Reading Comprehension,53,1.0,86,2,Interactive,69,Medium,4
+S0569,Mathematics,Number System,77,2.8,88,3,Interactive,75,Medium,3
+S0570,Programming,Python Basics,74,3.3,73,4,Video,66,Medium,3
+S0571,English,Reading Comprehension,58,1.2,97,1,Notes,78,Medium,5
+S0572,Mathematics,Geometry,64,6.1,79,4,Interactive,71,Medium,3
+S0573,Mathematics,Geometry,74,3.5,80,2,Video,70,Medium,3
+S0574,Science,Biology,51,3.0,80,4,Practice,49,Medium,3
+S0575,English,Tenses,100,2.2,64,3,Video,63,Medium,4
+S0576,Computer Science,Operating Systems,77,3.3,74,1,Interactive,73,Medium,2
+S0577,Programming,Functions,56,1.4,67,5,Interactive,82,Medium,5
+S0578,Mathematics,Trigonometry,68,3.4,60,3,Notes,86,Medium,4
+S0579,Computer Science,Computer Networks,79,3.0,70,1,Interactive,47,Medium,3
+S0580,Programming,Functions,80,0.9,70,1,Notes,46,Medium,3
+S0581,Mathematics,Algebra,43,0.8,72,5,Notes,35,High,3
+S0582,English,Tenses,87,0.9,79,4,Interactive,90,Low,4
+S0583,Computer Science,DBMS,57,3.9,78,1,Practice,75,Medium,3
+S0584,Programming,SQL,76,2.9,94,2,Notes,51,Medium,3
+S0585,Computer Science,Computer Networks,66,3.3,69,1,Interactive,76,Medium,2
+S0586,Science,Physics,89,5.2,94,3,Notes,100,Low,4
+S0587,Mathematics,Statistics,38,0.5,85,1,Notes,42,High,3
+S0588,English,Grammar,79,0.8,76,5,Practice,100,Medium,3
+S0589,Programming,Python Basics,83,1.9,88,4,Practice,83,Low,5
+S0590,Programming,Loops,47,3.8,71,4,Notes,71,High,4
+S0591,Programming,Data Structures,76,2.9,71,3,Notes,86,Medium,4
+S0592,Mathematics,Geometry,88,2.4,65,4,Notes,89,Low,4
+S0593,Science,Electricity,74,1.7,100,1,Video,56,Medium,3
+S0594,Programming,Data Structures,48,2.9,100,2,Practice,52,High,3
+S0595,English,Tenses,18,2.5,78,5,Notes,92,High,3
+S0596,Computer Science,DBMS,64,2.0,58,4,Video,36,Medium,4
+S0597,Programming,SQL,30,1.6,77,5,Interactive,84,High,3
+S0598,Computer Science,Algorithms,91,1.6,94,3,Interactive,31,High,4
+S0599,Computer Science,DBMS,60,1.3,79,2,Notes,52,Medium,3
+S0600,Programming,Python Basics,57,3.2,87,1,Interactive,63,Medium,2
+S0601,English,Tenses,70,3.2,100,2,Practice,89,Medium,5
+S0602,Science,Human Body,77,3.1,90,5,Notes,39,Medium,3
+S0603,Science,Electricity,58,3.3,79,5,Video,92,Medium,5
+S0604,Mathematics,Trigonometry,65,1.7,95,1,Notes,84,Medium,2
+S0605,Programming,Loops,62,2.7,91,3,Notes,72,Medium,4
+S0606,Programming,Loops,69,1.7,78,5,Practice,65,Medium,4
+S0607,Computer Science,Computer Networks,34,2.0,82,3,Video,58,High,4
+S0608,Programming,Loops,48,0.5,77,3,Practice,84,High,5
+S0609,Science,Biology,82,0.7,79,1,Video,69,Medium,4
+S0610,Computer Science,Operating Systems,51,2.6,87,3,Notes,85,Medium,3
+S0611,Science,Human Body,61,0.5,74,1,Practice,39,Medium,3
+S0612,Computer Science,DBMS,66,0.5,84,3,Video,41,Medium,4
+S0613,Mathematics,Algebra,44,2.5,78,1,Practice,68,High,3
+S0614,Science,Human Body,40,0.7,74,4,Interactive,64,High,3
+S0615,Computer Science,DBMS,79,2.2,70,1,Interactive,70,Medium,3
+S0616,Computer Science,Computer Networks,100,1.7,81,5,Practice,75,Low,4
+S0617,English,Vocabulary,58,0.6,75,3,Interactive,21,High,2
+S0618,Programming,SQL,49,3.2,89,2,Video,42,High,3
+S0619,Mathematics,Geometry,34,1.9,86,2,Interactive,47,High,4
+S0620,English,Writing,40,1.0,90,3,Interactive,100,High,4
+S0621,Science,Biology,67,0.5,57,2,Notes,56,Medium,2
+S0622,Programming,Functions,69,2.6,93,1,Practice,68,Medium,4
+S0623,English,Vocabulary,68,2.4,94,1,Practice,100,Medium,3
+S0624,Computer Science,HTML and CSS,74,3.1,100,3,Video,84,Medium,2
+S0625,Programming,Loops,93,2.1,83,5,Interactive,78,Low,4
+S0626,Mathematics,Number System,69,2.2,100,4,Interactive,100,Medium,4
+S0627,Science,Chemistry,69,2.1,95,5,Video,54,Medium,5
+S0628,Mathematics,Number System,58,2.5,63,1,Interactive,82,Medium,5
+S0629,Computer Science,Algorithms,80,4.3,71,5,Notes,41,Medium,4
+S0630,Science,Biology,81,2.6,65,1,Practice,32,High,2
+S0631,Science,Chemistry,76,5.0,98,2,Interactive,100,Medium,4
+S0632,Computer Science,Algorithms,40,2.1,95,5,Interactive,78,High,3
+S0633,Programming,SQL,78,0.5,79,3,Video,65,Medium,3
+S0634,Mathematics,Statistics,84,3.7,97,4,Interactive,86,Low,5
+S0635,Science,Chemistry,81,2.8,83,5,Practice,34,High,3
+S0636,Mathematics,Algebra,62,2.8,99,1,Practice,63,Medium,4
+S0637,English,Tenses,87,2.2,89,4,Interactive,98,Low,5
+S0638,Programming,Data Structures,46,2.7,100,3,Video,60,High,4
+S0639,Mathematics,Statistics,77,1.3,88,3,Notes,49,Medium,4
+S0640,Programming,Functions,74,2.1,87,1,Interactive,63,Medium,3
+S0641,Programming,Python Basics,79,1.6,82,3,Interactive,25,High,3
+S0642,Mathematics,Trigonometry,96,3.0,66,1,Notes,26,High,3
+S0643,Programming,Data Structures,96,2.3,97,2,Practice,76,Low,2
+S0644,Mathematics,Statistics,84,2.1,92,1,Interactive,44,Medium,3
+S0645,Computer Science,Computer Networks,74,2.3,86,5,Video,48,Medium,5
+S0646,Science,Physics,86,1.6,88,4,Interactive,46,Medium,3
+S0647,Programming,Functions,86,0.5,93,3,Practice,59,Medium,4
+S0648,Science,Chemistry,78,1.5,90,3,Interactive,67,Medium,3
+S0649,Computer Science,DBMS,64,4.2,100,4,Video,35,Medium,4
+S0650,Mathematics,Geometry,83,3.4,91,2,Practice,74,Low,3
+S0651,English,Tenses,57,0.5,86,3,Interactive,78,Medium,2
+S0652,Science,Human Body,79,5.0,82,5,Notes,63,Medium,4
+S0653,Programming,Data Structures,100,1.3,84,1,Practice,51,Medium,3
+S0654,Science,Electricity,92,4.7,87,2,Practice,55,Medium,5
+S0655,Computer Science,Computer Networks,60,1.8,60,1,Interactive,89,Medium,5
+S0656,Computer Science,Computer Networks,42,4.2,82,1,Interactive,85,High,2
+S0657,Mathematics,Number System,94,3.4,81,5,Practice,45,Medium,4
+S0658,Mathematics,Statistics,59,0.5,92,3,Practice,94,Medium,3
+S0659,Mathematics,Trigonometry,74,2.2,85,5,Interactive,42,Medium,5
+S0660,Programming,Data Structures,66,4.9,82,3,Notes,41,Medium,4
+S0661,Mathematics,Trigonometry,79,3.4,96,3,Interactive,61,Medium,3
+S0662,Science,Human Body,44,2.2,98,3,Interactive,70,High,2
+S0663,Science,Chemistry,39,4.5,80,3,Video,58,High,2
+S0664,Computer Science,DBMS,93,2.0,98,5,Notes,66,Medium,5
+S0665,Mathematics,Statistics,72,3.5,90,3,Practice,73,Medium,3
+S0666,English,Vocabulary,100,1.4,82,1,Interactive,65,Medium,4
+S0667,Science,Electricity,60,2.9,79,4,Interactive,65,Medium,3
+S0668,Mathematics,Geometry,36,2.7,87,3,Notes,78,High,4
+S0669,Computer Science,Computer Networks,33,0.9,100,2,Interactive,80,High,2
+S0670,Computer Science,Algorithms,69,1.7,88,2,Practice,68,Medium,3
+S0671,Science,Electricity,49,2.8,67,3,Practice,100,High,5
+S0672,Computer Science,Computer Networks,80,2.4,58,4,Practice,31,High,5
+S0673,Computer Science,Algorithms,53,1.7,80,4,Notes,34,High,3
+S0674,Science,Biology,51,1.6,72,5,Practice,78,Medium,4
+S0675,Science,Biology,64,3.2,80,3,Practice,76,Medium,4
+S0676,Science,Electricity,65,2.6,72,4,Practice,43,Medium,4
+S0677,English,Reading Comprehension,76,3.0,85,4,Practice,82,Medium,5
+S0678,Programming,Python Basics,84,2.4,98,4,Interactive,70,Low,4
+S0679,English,Reading Comprehension,73,2.8,73,1,Notes,100,Medium,3
+S0680,Programming,Python Basics,69,2.0,76,4,Practice,100,Medium,3
+S0681,Mathematics,Number System,59,0.6,72,4,Interactive,80,Medium,5
+S0682,Programming,SQL,61,0.5,92,4,Notes,46,Medium,5
+S0683,Science,Human Body,62,1.7,79,2,Practice,59,Medium,3
+S0684,Computer Science,Computer Networks,64,1.0,86,4,Notes,20,High,3
+S0685,Mathematics,Trigonometry,81,2.9,89,5,Notes,94,Low,5
+S0686,Science,Physics,76,3.6,91,2,Notes,54,Medium,2
+S0687,Science,Physics,75,3.2,95,2,Video,42,Medium,3
+S0688,English,Reading Comprehension,66,0.5,86,5,Interactive,18,High,3
+S0689,Mathematics,Geometry,92,4.7,67,4,Video,66,Medium,5
+S0690,Computer Science,Operating Systems,59,1.9,100,3,Interactive,55,Medium,4
+S0691,English,Writing,41,2.3,62,1,Notes,85,High,3
+S0692,Programming,Functions,62,1.6,79,5,Practice,72,Medium,5
+S0693,Mathematics,Algebra,20,1.5,83,5,Notes,75,High,4
+S0694,Computer Science,DBMS,62,1.9,79,1,Notes,93,Medium,2
+S0695,English,Vocabulary,66,2.7,100,1,Video,88,Medium,4
+S0696,English,Writing,66,2.2,78,3,Notes,58,Medium,4
+S0697,Programming,Python Basics,72,2.8,68,5,Video,100,Medium,4
+S0698,Programming,Data Structures,54,4.2,85,5,Video,79,Medium,4
+S0699,Programming,Functions,62,2.3,65,2,Interactive,72,Medium,5
+S0700,Computer Science,HTML and CSS,69,0.5,80,3,Interactive,100,Medium,4
+S0701,Science,Human Body,53,3.2,73,2,Interactive,56,Medium,3
+S0702,Programming,Loops,34,1.1,82,4,Video,54,High,4
+S0703,Programming,Loops,46,3.4,67,1,Interactive,22,High,2
+S0704,Programming,Loops,75,4.5,85,1,Video,79,Medium,3
+S0705,Programming,Functions,49,1.9,67,2,Notes,75,High,2
+S0706,Science,Human Body,73,0.9,85,1,Interactive,52,Medium,4
+S0707,English,Tenses,73,4.0,72,4,Practice,40,Medium,3
+S0708,Mathematics,Statistics,63,1.6,67,1,Video,29,High,1
+S0709,Science,Chemistry,48,3.3,62,1,Interactive,100,High,2
+S0710,Programming,Loops,73,3.3,89,5,Video,26,High,4
+S0711,Programming,SQL,38,5.4,62,1,Notes,38,High,1
+S0712,English,Reading Comprehension,92,5.4,76,1,Practice,31,High,1
+S0713,Programming,Data Structures,63,2.1,74,2,Video,74,Medium,3
+S0714,Programming,Functions,62,1.2,89,2,Notes,65,Medium,4
+S0715,Mathematics,Algebra,82,0.8,64,5,Interactive,38,Medium,4
+S0716,Programming,Loops,74,3.8,86,1,Interactive,70,Medium,4
+S0717,Computer Science,Computer Networks,76,2.6,99,4,Video,57,Medium,3
+S0718,Programming,Functions,80,4.0,81,4,Notes,97,Low,2
+S0719,Science,Chemistry,67,2.5,73,4,Interactive,63,Medium,3
+S0720,Science,Electricity,68,0.5,72,3,Practice,89,Medium,3
+S0721,English,Tenses,53,4.1,98,1,Interactive,53,Medium,3
+S0722,Computer Science,Operating Systems,53,1.3,69,2,Notes,49,Medium,2
+S0723,Computer Science,DBMS,39,2.8,84,4,Interactive,48,High,4
+S0724,Computer Science,Computer Networks,73,2.2,90,4,Video,84,Medium,4
+S0725,Computer Science,DBMS,63,2.1,65,1,Video,49,Medium,2
+S0726,Computer Science,HTML and CSS,75,3.9,71,1,Notes,72,Medium,2
+S0727,Computer Science,HTML and CSS,62,1.7,89,4,Notes,90,Medium,4
+S0728,Science,Biology,56,1.0,85,1,Interactive,87,Medium,3
+S0729,Mathematics,Geometry,100,4.2,78,3,Interactive,76,Low,3
+S0730,Mathematics,Trigonometry,88,2.9,85,2,Interactive,82,Low,5
+S0731,Mathematics,Statistics,71,2.4,100,4,Notes,56,Medium,4
+S0732,Computer Science,Algorithms,71,2.9,65,5,Interactive,26,High,3
+S0733,Computer Science,DBMS,50,1.7,89,3,Interactive,69,Medium,2
+S0734,Programming,Python Basics,59,3.2,89,5,Interactive,46,Medium,4
+S0735,Programming,Python Basics,100,2.5,73,1,Notes,67,Medium,3
+S0736,Computer Science,DBMS,67,0.8,70,3,Video,61,Medium,3
+S0737,English,Reading Comprehension,57,2.3,82,3,Video,62,Medium,4
+S0738,Computer Science,DBMS,58,3.2,86,3,Video,86,Medium,4
+S0739,English,Grammar,78,2.4,84,1,Practice,48,Medium,2
+S0740,English,Vocabulary,71,3.0,72,1,Notes,63,Medium,3
+S0741,English,Reading Comprehension,28,2.2,80,2,Interactive,100,High,2
+S0742,English,Writing,53,0.5,76,3,Interactive,55,Medium,3
+S0743,Mathematics,Trigonometry,87,3.5,82,4,Notes,90,Low,4
+S0744,Programming,Python Basics,53,0.5,76,5,Notes,83,Medium,5
+S0745,Computer Science,Algorithms,69,1.6,67,2,Notes,20,High,3
+S0746,Science,Physics,82,3.0,79,1,Video,79,Low,3
+S0747,Programming,SQL,53,4.7,77,1,Interactive,4,High,3
+S0748,Computer Science,Algorithms,94,2.5,88,5,Notes,78,Low,4
+S0749,Science,Electricity,77,1.5,74,1,Practice,89,Medium,3
+S0750,Science,Biology,54,1.7,90,3,Notes,40,Medium,3
+S0751,Mathematics,Algebra,81,2.4,94,3,Interactive,59,Medium,3
+S0752,Computer Science,DBMS,86,1.6,86,1,Notes,63,Medium,2
+S0753,Science,Physics,57,4.2,84,4,Video,72,Medium,4
+S0754,Computer Science,DBMS,100,2.8,77,1,Interactive,100,Low,2
+S0755,Computer Science,DBMS,69,4.9,80,3,Notes,55,Medium,5
+S0756,Mathematics,Statistics,74,1.5,73,5,Interactive,51,Medium,4
+S0757,Science,Human Body,92,3.8,87,3,Notes,31,High,4
+S0758,Mathematics,Geometry,43,2.2,85,3,Practice,36,High,2
+S0759,Science,Human Body,66,3.1,94,3,Practice,66,Medium,3
+S0760,Computer Science,HTML and CSS,48,1.9,86,4,Practice,73,High,2
+S0761,Science,Biology,53,3.9,82,5,Notes,100,Medium,4
+S0762,Computer Science,Operating Systems,74,3.0,77,2,Interactive,46,Medium,5
+S0763,Programming,Functions,86,3.5,88,1,Video,96,Low,3
+S0764,Computer Science,HTML and CSS,73,0.5,57,1,Notes,72,Medium,2
+S0765,English,Tenses,32,3.1,100,2,Interactive,58,High,3
+S0766,Mathematics,Number System,83,3.8,77,2,Interactive,65,Medium,4
+S0767,Computer Science,Computer Networks,77,2.3,80,3,Interactive,95,Medium,4
+S0768,English,Vocabulary,98,2.0,100,4,Practice,78,Low,5
+S0769,English,Vocabulary,46,1.7,87,2,Interactive,100,High,3
+S0770,Science,Chemistry,84,3.9,90,1,Practice,40,Medium,4
+S0771,Science,Electricity,90,3.2,84,5,Video,63,Medium,5
+S0772,Computer Science,Algorithms,68,1.5,69,1,Interactive,46,Medium,3
+S0773,Computer Science,HTML and CSS,67,2.8,88,3,Notes,100,Medium,3
+S0774,English,Vocabulary,60,3.1,59,1,Practice,45,Medium,4
+S0775,Science,Biology,36,3.8,100,4,Video,72,High,4
+S0776,English,Reading Comprehension,59,3.5,73,3,Video,53,Medium,3
+S0777,Computer Science,Operating Systems,74,3.9,79,1,Video,37,Medium,3
+S0778,Programming,SQL,100,3.0,77,1,Video,84,Low,3
+S0779,Mathematics,Geometry,61,1.3,98,1,Notes,84,Medium,3
+S0780,English,Vocabulary,60,4.5,73,5,Practice,47,Medium,4
+S0781,Programming,Python Basics,75,2.0,63,3,Notes,97,Medium,4
+S0782,Science,Physics,76,2.2,74,3,Interactive,100,Medium,4
+S0783,Science,Human Body,60,3.8,73,3,Notes,65,Medium,3
+S0784,English,Vocabulary,72,5.0,86,5,Practice,5,High,4
+S0785,Programming,SQL,68,2.6,84,2,Interactive,63,Medium,4
+S0786,Computer Science,Computer Networks,58,1.4,100,1,Practice,47,Medium,3
+S0787,Programming,Functions,41,2.6,70,2,Interactive,91,High,4
+S0788,English,Grammar,78,0.5,100,1,Interactive,35,Medium,4
+S0789,Programming,Loops,86,3.2,71,3,Practice,53,Medium,4
+S0790,Programming,SQL,63,0.5,95,1,Video,62,Medium,2
+S0791,Computer Science,Operating Systems,57,2.9,71,3,Notes,75,Medium,4
+S0792,Mathematics,Number System,64,1.1,83,5,Interactive,28,High,3
+S0793,Programming,Loops,54,3.5,77,2,Notes,100,Medium,4
+S0794,Programming,Loops,74,2.1,74,2,Interactive,10,High,4
+S0795,Computer Science,Operating Systems,76,2.3,80,1,Interactive,26,High,2
+S0796,Computer Science,Computer Networks,47,4.6,92,1,Practice,9,High,1
+S0797,English,Writing,65,1.9,66,2,Interactive,72,Medium,4
+S0798,Science,Biology,55,3.4,77,5,Notes,57,Medium,4
+S0799,Science,Human Body,38,4.4,84,1,Interactive,38,High,2
+S0800,Science,Human Body,47,2.8,82,2,Video,53,High,2
+S0801,Computer Science,DBMS,45,2.4,76,4,Video,100,High,4
+S0802,Mathematics,Algebra,90,1.9,84,3,Interactive,63,Medium,2
+S0803,Science,Chemistry,93,2.3,90,5,Video,60,Medium,3
+S0804,Science,Physics,90,2.9,86,2,Notes,98,Low,4
+S0805,Computer Science,Algorithms,81,0.8,73,5,Practice,83,Low,4
+S0806,Mathematics,Trigonometry,42,2.3,64,2,Interactive,63,High,2
+S0807,English,Grammar,77,3.0,100,5,Video,54,Medium,5
+S0808,Computer Science,HTML and CSS,42,1.3,85,1,Interactive,11,High,2
+S0809,Mathematics,Algebra,49,2.6,69,3,Practice,65,High,4
+S0810,Computer Science,Computer Networks,68,1.6,79,4,Video,31,High,4
+S0811,Computer Science,Algorithms,78,5.5,74,1,Notes,50,Medium,3
+S0812,Mathematics,Algebra,74,2.4,95,2,Notes,49,Medium,4
+S0813,Science,Chemistry,77,2.5,78,4,Practice,44,Medium,4
+S0814,Programming,Functions,54,4.6,92,2,Interactive,48,Medium,3
+S0815,Mathematics,Number System,72,1.9,91,4,Interactive,70,Medium,4
+S0816,English,Tenses,75,2.8,82,4,Notes,48,Medium,5
+S0817,Science,Biology,49,3.0,78,1,Video,42,High,2
+S0818,Mathematics,Algebra,50,2.9,65,5,Interactive,53,Medium,2
+S0819,English,Writing,72,1.9,64,5,Interactive,32,High,4
+S0820,Mathematics,Algebra,55,4.4,90,5,Notes,39,Medium,3
+S0821,Mathematics,Statistics,78,2.2,79,3,Interactive,46,Medium,3
+S0822,Programming,Data Structures,85,3.5,80,3,Video,57,Medium,2
+S0823,Computer Science,DBMS,48,2.9,80,2,Notes,90,High,2
+S0824,Science,Human Body,63,2.7,73,2,Interactive,100,Medium,4
+S0825,Programming,Python Basics,73,4.7,64,1,Video,74,Medium,2
+S0826,Programming,Data Structures,73,1.2,90,1,Video,91,Medium,3
+S0827,Science,Biology,34,1.3,88,3,Video,0,High,4
+S0828,Science,Human Body,70,1.5,93,1,Notes,48,Medium,2
+S0829,English,Grammar,74,4.6,100,3,Practice,76,Medium,4
+S0830,Science,Human Body,45,3.3,73,3,Notes,72,High,3
+S0831,Computer Science,Algorithms,77,2.6,45,3,Practice,81,Medium,4
+S0832,English,Vocabulary,66,4.5,85,1,Video,75,Medium,4
+S0833,Computer Science,Computer Networks,74,1.4,52,3,Video,84,Medium,3
+S0834,Mathematics,Statistics,82,2.7,97,4,Notes,57,Medium,4
+S0835,Mathematics,Number System,77,4.3,61,5,Interactive,60,Medium,5
+S0836,Programming,Python Basics,95,2.8,78,2,Practice,83,Low,4
+S0837,English,Writing,61,2.9,96,5,Notes,83,Medium,4
+S0838,Programming,Data Structures,67,3.2,80,2,Interactive,69,Medium,2
+S0839,English,Vocabulary,91,1.1,76,2,Interactive,100,Low,3
+S0840,Mathematics,Trigonometry,56,1.8,100,2,Practice,0,High,2
+S0841,Science,Physics,100,3.2,68,2,Video,66,Medium,4
+S0842,Programming,Loops,100,3.0,75,1,Interactive,84,Low,3
+S0843,Science,Electricity,49,0.5,63,5,Practice,35,High,4
+S0844,Programming,Python Basics,46,0.5,69,1,Video,53,High,2
+S0845,Mathematics,Number System,95,1.8,92,2,Interactive,63,Medium,3
+S0846,Programming,Functions,66,1.6,84,3,Video,59,Medium,3
+S0847,Science,Physics,85,3.0,76,2,Notes,62,Medium,3
+S0848,English,Writing,69,1.8,70,2,Interactive,24,High,3
+S0849,Mathematics,Algebra,78,1.7,100,5,Video,97,Medium,5
+S0850,Programming,Data Structures,100,1.6,51,5,Video,53,Medium,5
+S0851,Computer Science,HTML and CSS,70,2.8,97,3,Practice,84,Medium,3
+S0852,English,Grammar,48,4.4,83,2,Practice,49,High,2
+S0853,English,Writing,56,1.6,66,5,Video,60,Medium,3
+S0854,Computer Science,Operating Systems,87,2.9,85,4,Notes,46,Medium,4
+S0855,English,Vocabulary,74,3.4,80,2,Notes,65,Medium,4
+S0856,Programming,Functions,59,0.5,85,2,Practice,83,Medium,4
+S0857,English,Vocabulary,75,2.1,72,5,Video,75,Medium,4
+S0858,Science,Electricity,87,1.4,74,3,Practice,100,Low,4
+S0859,English,Reading Comprehension,61,2.8,83,5,Interactive,42,Medium,4
+S0860,Mathematics,Number System,61,2.8,95,1,Practice,56,Medium,2
+S0861,Science,Electricity,73,2.1,80,4,Notes,100,Medium,2
+S0862,English,Grammar,61,2.5,72,4,Notes,87,Medium,4
+S0863,Programming,Python Basics,67,2.2,80,5,Interactive,63,Medium,4
+S0864,Programming,Data Structures,72,3.4,67,3,Interactive,38,Medium,2
+S0865,Programming,SQL,83,2.8,88,3,Practice,100,Low,3
+S0866,English,Tenses,71,3.5,70,2,Notes,51,Medium,3
+S0867,Programming,Functions,100,2.9,100,4,Notes,74,Low,3
+S0868,English,Reading Comprehension,87,0.7,100,4,Notes,70,Low,2
+S0869,English,Reading Comprehension,61,3.3,79,4,Practice,43,Medium,2
+S0870,English,Tenses,66,2.5,77,4,Notes,95,Medium,3
+S0871,Programming,SQL,73,2.6,63,5,Practice,65,Medium,5
+S0872,English,Reading Comprehension,78,0.5,44,3,Video,83,Medium,4
+S0873,Computer Science,Operating Systems,88,1.4,86,2,Notes,76,Low,3
+S0874,Computer Science,DBMS,60,2.5,88,4,Interactive,64,Medium,4
+S0875,Science,Electricity,59,0.9,100,2,Practice,50,Medium,3
+S0876,Mathematics,Statistics,69,2.0,81,4,Interactive,64,Medium,4
+S0877,Science,Biology,25,4.8,80,3,Notes,30,High,3
+S0878,Programming,Loops,55,4.3,74,1,Interactive,83,Medium,2
+S0879,English,Grammar,59,2.2,97,3,Interactive,32,High,2
+S0880,Computer Science,Algorithms,48,1.5,62,2,Interactive,46,High,1
+S0881,Computer Science,HTML and CSS,49,3.9,86,4,Interactive,39,High,2
+S0882,Computer Science,DBMS,47,2.4,92,1,Practice,87,High,3
+S0883,Computer Science,HTML and CSS,54,2.5,78,1,Video,100,Medium,2
+S0884,Mathematics,Geometry,63,4.0,64,2,Practice,48,Medium,3
+S0885,Science,Human Body,63,0.6,89,4,Video,77,Medium,3
+S0886,Computer Science,Algorithms,69,1.4,78,1,Practice,100,Medium,3
+S0887,English,Grammar,46,2.7,65,4,Video,38,High,3
+S0888,Mathematics,Number System,84,3.2,88,3,Notes,37,Medium,3
+S0889,Computer Science,HTML and CSS,72,1.7,78,4,Notes,56,Medium,4
+S0890,English,Reading Comprehension,96,2.3,96,3,Interactive,78,Low,3
+S0891,English,Tenses,48,1.5,71,5,Notes,80,High,5
+S0892,Programming,Python Basics,73,2.0,57,3,Interactive,66,Medium,4
+S0893,Mathematics,Number System,71,5.0,96,3,Interactive,40,Medium,3
+S0894,Mathematics,Algebra,66,1.6,88,2,Notes,73,Medium,2
+S0895,Programming,Functions,89,2.6,61,3,Practice,72,Low,4
+S0896,English,Vocabulary,61,3.5,84,5,Interactive,32,High,3
+S0897,Programming,SQL,88,3.9,85,4,Video,91,Low,5
+S0898,English,Writing,51,4.6,88,5,Practice,55,Medium,3
+S0899,Mathematics,Number System,72,0.5,90,3,Video,74,Medium,3
+S0900,Mathematics,Algebra,63,1.6,80,1,Practice,100,Medium,4
+S0901,Mathematics,Geometry,74,2.5,92,3,Notes,44,Medium,3
+S0902,Computer Science,Operating Systems,35,3.8,100,2,Notes,67,High,1
+S0903,Programming,Data Structures,78,1.4,74,3,Interactive,71,Medium,3
+S0904,English,Vocabulary,56,2.7,77,3,Interactive,37,Medium,3
+S0905,Science,Chemistry,74,2.3,65,3,Interactive,0,High,3
+S0906,English,Grammar,56,2.7,88,2,Notes,93,Medium,3
+S0907,English,Tenses,78,2.7,61,4,Interactive,29,High,4
+S0908,English,Grammar,75,2.8,76,5,Notes,85,Medium,3
+S0909,Science,Biology,66,1.8,73,1,Video,91,Medium,3
+S0910,Computer Science,DBMS,82,2.6,71,5,Notes,58,Medium,4
+S0911,Programming,Functions,55,3.0,84,4,Notes,23,High,4
+S0912,English,Grammar,53,2.9,91,3,Practice,33,High,2
+S0913,English,Tenses,98,2.9,76,5,Practice,52,Medium,3
+S0914,Computer Science,Algorithms,83,1.6,95,2,Interactive,54,Medium,2
+S0915,Computer Science,DBMS,60,0.5,80,4,Practice,85,Medium,2
+S0916,Programming,SQL,88,3.5,97,2,Notes,63,Medium,4
+S0917,Programming,Data Structures,41,3.4,72,5,Video,36,High,4
+S0918,Science,Biology,53,3.0,60,5,Video,11,High,5
+S0919,Science,Biology,84,1.2,81,4,Video,75,Low,4
+S0920,Science,Biology,87,1.6,82,5,Notes,64,Medium,4
+S0921,Computer Science,Algorithms,60,2.6,82,2,Interactive,85,Medium,2
+S0922,Computer Science,Operating Systems,64,2.1,86,4,Interactive,12,High,4
+S0923,English,Vocabulary,55,4.0,76,1,Interactive,100,Medium,3
+S0924,Computer Science,Operating Systems,90,2.5,86,5,Notes,66,Medium,5
+S0925,English,Reading Comprehension,55,1.3,74,4,Notes,59,Medium,4
+S0926,Science,Biology,91,1.3,73,1,Interactive,29,High,5
+S0927,Computer Science,DBMS,73,3.1,65,2,Practice,77,Medium,3
+S0928,Mathematics,Statistics,87,5.3,70,2,Notes,39,Medium,2
+S0929,Science,Electricity,96,3.8,80,1,Interactive,44,Medium,4
+S0930,English,Writing,61,2.2,89,1,Interactive,60,Medium,3
+S0931,English,Writing,68,3.5,100,4,Notes,85,Medium,4
+S0932,Mathematics,Trigonometry,55,3.3,84,3,Video,29,High,3
+S0933,Science,Biology,66,1.9,99,4,Video,99,Medium,4
+S0934,Programming,Loops,69,1.4,82,5,Practice,65,Medium,3
+S0935,Science,Electricity,58,2.1,86,5,Interactive,50,Medium,4
+S0936,Computer Science,HTML and CSS,64,0.5,76,4,Video,91,Medium,2
+S0937,Computer Science,DBMS,70,4.4,72,4,Practice,32,High,5
+S0938,Computer Science,Computer Networks,66,2.6,98,5,Video,81,Medium,3
+S0939,English,Tenses,56,3.1,74,5,Notes,63,Medium,3
+S0940,English,Grammar,97,2.7,71,5,Notes,47,Medium,3
+S0941,Programming,Python Basics,48,3.7,100,2,Interactive,62,High,3
+S0942,Programming,Functions,50,5.0,79,4,Video,100,Medium,5
+S0943,English,Grammar,36,1.7,73,1,Notes,63,High,5
+S0944,Science,Human Body,48,2.8,89,1,Practice,64,High,3
+S0945,Computer Science,Algorithms,49,2.6,88,1,Notes,79,High,4
+S0946,Computer Science,Operating Systems,84,2.6,67,5,Notes,49,Medium,4
+S0947,Science,Physics,72,1.9,70,4,Practice,23,High,3
+S0948,Computer Science,Computer Networks,41,1.3,77,3,Notes,31,High,3
+S0949,Programming,Functions,81,1.8,76,2,Practice,47,Medium,3
+S0950,Computer Science,Computer Networks,89,3.6,89,2,Video,88,Low,2
+S0951,Science,Electricity,92,3.0,94,3,Video,66,Medium,3
+S0952,Programming,Loops,74,2.1,92,5,Notes,25,High,3
+S0953,Science,Chemistry,100,1.7,79,1,Practice,73,Low,3
+S0954,Science,Electricity,64,3.5,73,1,Interactive,84,Medium,4
+S0955,Science,Human Body,86,2.7,100,3,Practice,73,Low,3
+S0956,English,Writing,66,4.2,100,3,Interactive,100,Medium,4
+S0957,Mathematics,Algebra,45,3.1,67,2,Interactive,70,High,3
+S0958,Computer Science,Computer Networks,84,3.1,88,2,Practice,40,Medium,3
+S0959,English,Writing,40,0.5,90,4,Practice,86,High,4
+S0960,Computer Science,DBMS,56,3.2,74,3,Video,18,High,3
+S0961,English,Reading Comprehension,59,2.0,100,3,Video,74,Medium,3
+S0962,Computer Science,Algorithms,84,2.9,86,2,Notes,41,Medium,3
+S0963,English,Vocabulary,84,4.6,87,1,Interactive,73,Low,5
+S0964,Programming,Functions,69,4.3,73,5,Practice,63,Medium,4
+S0965,Programming,Data Structures,75,1.6,72,4,Notes,94,Medium,5
+S0966,Computer Science,Algorithms,100,2.7,78,5,Practice,98,Low,5
+S0967,Mathematics,Algebra,50,1.3,87,4,Video,64,Medium,4
+S0968,English,Grammar,81,4.1,58,1,Video,71,Low,4
+S0969,Science,Electricity,40,1.7,71,1,Interactive,100,High,5
+S0970,Mathematics,Statistics,53,3.1,88,1,Notes,74,Medium,3
+S0971,Science,Biology,73,4.5,95,4,Notes,84,Medium,5
+S0972,Programming,Python Basics,73,3.9,84,1,Practice,70,Medium,3
+S0973,Programming,Python Basics,31,2.4,73,4,Practice,100,High,4
+S0974,Science,Physics,67,1.8,85,5,Interactive,89,Medium,3
+S0975,Programming,Loops,67,3.5,58,1,Interactive,54,Medium,3
+S0976,Mathematics,Algebra,58,2.7,100,5,Video,56,Medium,4
+S0977,Science,Electricity,100,1.8,100,2,Video,100,Low,4
+S0978,Science,Human Body,73,2.4,74,2,Notes,66,Medium,4
+S0979,Computer Science,Algorithms,67,2.1,78,5,Video,95,Medium,4
+S0980,Mathematics,Number System,55,3.0,100,4,Video,93,Medium,3
+S0981,English,Vocabulary,63,1.4,78,4,Interactive,29,High,2
+S0982,Mathematics,Geometry,53,2.8,89,3,Interactive,75,Medium,4
+S0983,Mathematics,Algebra,36,3.9,78,5,Video,31,High,3
+S0984,Programming,Functions,72,3.9,62,2,Practice,65,Medium,2
+S0985,Science,Electricity,77,3.4,97,1,Notes,88,Medium,4
+S0986,Science,Physics,38,3.2,93,3,Video,58,High,2
+S0987,Computer Science,Operating Systems,84,1.1,79,2,Interactive,82,Low,3
+S0988,Programming,Loops,55,2.6,94,5,Notes,100,Medium,3
+S0989,English,Tenses,73,1.2,94,4,Interactive,48,Medium,3
+S0990,Science,Physics,66,2.9,87,4,Video,64,Medium,3
+S0991,Science,Physics,81,2.4,95,3,Interactive,24,High,3
+S0992,Programming,SQL,91,2.7,79,4,Practice,43,Medium,5
+S0993,Science,Chemistry,49,1.6,88,3,Practice,96,High,4
+S0994,Mathematics,Geometry,84,3.2,80,3,Practice,38,Medium,3
+S0995,Mathematics,Number System,50,3.1,91,3,Notes,74,Medium,4
+S0996,Computer Science,HTML and CSS,62,1.9,87,3,Notes,55,Medium,4
+S0997,English,Reading Comprehension,48,1.4,89,4,Video,40,High,4
+S0998,Science,Electricity,58,2.5,99,1,Interactive,85,Medium,4
+S0999,Mathematics,Geometry,100,1.7,70,2,Interactive,58,Medium,2
+S1000,Computer Science,DBMS,64,1.8,91,2,Video,73,Medium,3
